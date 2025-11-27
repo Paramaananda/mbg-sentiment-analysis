@@ -1,0 +1,10 @@
+/data
+/src/__pycache__
+/src/serving/__pycache__
+/results_indobertweet/best_model
+/results_indobertweet/checkpoint-190
+/results_indobertweet/checkpoint-380
+/results_indobertweet/checkpoint-570
+/results_indobertweet/checkpoint-760
+/results_indobertweet/checkpoint-2274
+/results_indobertweet/model_pipeline.joblib
